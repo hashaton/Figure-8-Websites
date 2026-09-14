@@ -1,0 +1,9 @@
+{
+  "name": "figure-8-websites",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Marketing site for Figure 8 Websites",
+  "scripts": {
+    "build": "node build.js"
+  }
+}
